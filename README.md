@@ -52,12 +52,6 @@ This is a guestbook application built using Spring Cloud. It allows users to sig
 3. **Sign the guestbook** by adding new entries.
 4. **View guestbook entries** to see all the submissions.
 
-## API Endpoints
-
-- **POST /api/register** - Register a new user.
-- **POST /api/login** - Authenticate user credentials.
-- **POST /api/guestbook** - Add a new guestbook entry.
-- **GET /api/guestbook** - Retrieve a list of guestbook entries.
 
 ## Contributing
 
